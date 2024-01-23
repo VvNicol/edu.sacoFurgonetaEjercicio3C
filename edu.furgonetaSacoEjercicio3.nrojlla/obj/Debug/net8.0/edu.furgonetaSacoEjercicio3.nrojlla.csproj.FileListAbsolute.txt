@@ -1,0 +1,14 @@
+D:\VisualStudioProyectos\Proyectos\edu.furgonetaSacoEjercicio3.nrojlla\bin\Debug\net8.0\edu.furgonetaSacoEjercicio3.nrojlla.exe
+D:\VisualStudioProyectos\Proyectos\edu.furgonetaSacoEjercicio3.nrojlla\bin\Debug\net8.0\edu.furgonetaSacoEjercicio3.nrojlla.deps.json
+D:\VisualStudioProyectos\Proyectos\edu.furgonetaSacoEjercicio3.nrojlla\bin\Debug\net8.0\edu.furgonetaSacoEjercicio3.nrojlla.runtimeconfig.json
+D:\VisualStudioProyectos\Proyectos\edu.furgonetaSacoEjercicio3.nrojlla\bin\Debug\net8.0\edu.furgonetaSacoEjercicio3.nrojlla.dll
+D:\VisualStudioProyectos\Proyectos\edu.furgonetaSacoEjercicio3.nrojlla\bin\Debug\net8.0\edu.furgonetaSacoEjercicio3.nrojlla.pdb
+D:\VisualStudioProyectos\Proyectos\edu.furgonetaSacoEjercicio3.nrojlla\obj\Debug\net8.0\edu.furgonetaSacoEjercicio3.nrojlla.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudioProyectos\Proyectos\edu.furgonetaSacoEjercicio3.nrojlla\obj\Debug\net8.0\edu.furgonetaSacoEjercicio3.nrojlla.AssemblyInfoInputs.cache
+D:\VisualStudioProyectos\Proyectos\edu.furgonetaSacoEjercicio3.nrojlla\obj\Debug\net8.0\edu.furgonetaSacoEjercicio3.nrojlla.AssemblyInfo.cs
+D:\VisualStudioProyectos\Proyectos\edu.furgonetaSacoEjercicio3.nrojlla\obj\Debug\net8.0\edu.furgonetaSacoEjercicio3.nrojlla.csproj.CoreCompileInputs.cache
+D:\VisualStudioProyectos\Proyectos\edu.furgonetaSacoEjercicio3.nrojlla\obj\Debug\net8.0\edu.furgonetaSacoEjercicio3.nrojlla.dll
+D:\VisualStudioProyectos\Proyectos\edu.furgonetaSacoEjercicio3.nrojlla\obj\Debug\net8.0\refint\edu.furgonetaSacoEjercicio3.nrojlla.dll
+D:\VisualStudioProyectos\Proyectos\edu.furgonetaSacoEjercicio3.nrojlla\obj\Debug\net8.0\edu.furgonetaSacoEjercicio3.nrojlla.pdb
+D:\VisualStudioProyectos\Proyectos\edu.furgonetaSacoEjercicio3.nrojlla\obj\Debug\net8.0\edu.furgonetaSacoEjercicio3.nrojlla.genruntimeconfig.cache
+D:\VisualStudioProyectos\Proyectos\edu.furgonetaSacoEjercicio3.nrojlla\obj\Debug\net8.0\ref\edu.furgonetaSacoEjercicio3.nrojlla.dll
